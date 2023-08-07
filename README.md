@@ -1,2 +1,2 @@
 # Alien_Invasion
-Python Crash Course project 1 - alien invasion
+I made a clone project from Python Crash Course book.
